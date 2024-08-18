@@ -11,6 +11,8 @@ Current maps:
 
 - Greek Temples by winniepee0
 
+- Karsthafen by -sniper-, solars and peters
+
 - Silver Lands by Luis_Mi
 
 - Towers by Atmozpheric
