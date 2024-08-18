@@ -5,6 +5,8 @@ Current maps:
 
 Abandoned isles by gimp, caoutiouspotato, SoulSeeker
 
+Old Ant War by binshaden
+
 Cosmic Catastrophe by s20
 
 Silver Lands by Luis_Mi
