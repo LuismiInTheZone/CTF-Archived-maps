@@ -5,6 +5,8 @@ Current maps:
 
 Abandoned isles by gimp, caoutiouspotato, SoulSeeker
 
+Cosmic Catastrophe by s20
+
 Silver Lands by Luis_Mi
 
 Towers by Atmozpheric
