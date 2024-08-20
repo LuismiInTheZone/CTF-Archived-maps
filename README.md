@@ -13,6 +13,8 @@ Current maps:
 
 - Karsthafen by -sniper-, solars and peters
 
+- Mini Village by DiamondPlane and Elvis26
+
 - Silver Lands by Luis_Mi
 
 - Towers by Atmozpheric
