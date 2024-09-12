@@ -1,5 +1,5 @@
 # CTF-Archived-maps
-All the maps in the history of CTF that have been or deleted, denied or stopped
+All the maps in the history of CTF that have been deleted, denied or stopped
 
 Current maps:
 
